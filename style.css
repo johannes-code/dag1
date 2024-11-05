@@ -1,0 +1,34 @@
+
+
+ul {
+    color: grey
+}
+
+
+img {
+    width: 420px;
+    /* height: 300px; */
+    height: auto;
+    border: 150px;
+    margin-inline: 150px;
+}
+
+section {
+    width: fit-content;
+}
+
+#datetime input{
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.button {
+    background-color: #04AA6D; /* Green */
+    border: none;
+    color: rgb(235, 35, 35);
+    padding: 32px 48px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    }
